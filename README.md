@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-url.com)
+![Banner]([https://your-banner-image-url.com](https://i.ibb.co.com/CspNdtQz/github-header-image.png))
 
 # Al Abir Anik | Frontend Web Developer
 
