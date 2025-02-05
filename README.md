@@ -1,4 +1,7 @@
-![Banner]([https://your-banner-image-url.com](https://i.ibb.co.com/CspNdtQz/github-header-image.png))
+
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/CspNdtQz/github-header-image.png"  />
+</div>
 
 # Al Abir Anik | Frontend Web Developer
 
@@ -7,7 +10,7 @@ Hi, I'm Al Abir Anik, a passionate Frontend Web Developer with expertise in buil
 
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js** and **TypeScript**
-- 💻 Working on **Gadget Haven (An e-commerce website)**
+- 💻 Working on Personal project
 - 📚 Preparing for the **IELTS exam**
 - 🌍 Researching **study abroad opportunities**
 
@@ -33,9 +36,12 @@ Hi, I'm Al Abir Anik, a passionate Frontend Web Developer with expertise in buil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlAbirAnik&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlAbirAnik&layout=compact&theme=dark)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AlAbirAnik&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=al-abir-anik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-abir-anik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ---
 ✨ **Feel free to explore my repositories and connect with me!** 🚀
