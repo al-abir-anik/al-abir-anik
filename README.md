@@ -9,8 +9,6 @@ Hi, I'm Al Abir Anik, a passionate Frontend Web Developer with expertise in buil
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js** and **TypeScript**
 - 💻 Working on Personal project
-- 📚 Preparing for the **IELTS exam**
-- 🌍 Researching **study abroad opportunities**
 
 ## 🛠️ Skills
 ### Frontend
