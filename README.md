@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://i.ibb.co.com/CspNdtQz/github-header-image.png"  />
-</div>
+</div> -->
 
 ## 👋 About Me
 Hi, I'm Al Abir Anik, a passionate Frontend Web Developer with expertise in building responsive and dynamic web applications. I love creating user-friendly interfaces and working with modern web technologies to bring ideas to life.
