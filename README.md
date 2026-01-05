@@ -7,7 +7,7 @@
 Hi, I'm Al Abir Anik, a passionate Frontend Web Developer with expertise in building responsive and dynamic web applications. I love creating user-friendly interfaces and working with modern web technologies to bring ideas to life.
 
 ## 🚀 Current Activities
-- 🌱 Exploring **Next.js** and **TypeScript**
+- 🌱 Exploring **TypeScript** and **Redux**
 - 💻 Working on Personal project
 
 ## 🛠️ Skills
